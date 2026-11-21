@@ -6,6 +6,10 @@ export const homePage = `<!doctype html>
 <title>Echo Music · Lossless</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto+Flex:opsz,wdth,wght@8..144,75..125,300..700&display=swap">
+<script>
+  window.si = window.si || function () { (window.siq = window.siq || []).push(arguments); };
+</script>
+<script defer src="/_vercel/speed-insights/script.js"></script>
 <style>
 /* ─── M3 TOKENS ──────────────────────────────── */
 :root {
